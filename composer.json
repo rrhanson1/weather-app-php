@@ -1,0 +1,11 @@
+{
+    "name": "beck/widget",
+    "description": "weather app",
+    "authors": [
+        {
+            "name": "beckhanson",
+            "email": "rhanson0302@gmail.com"
+        }
+    ],
+    "require": {}
+}
